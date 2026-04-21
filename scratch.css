@@ -1,0 +1,30 @@
+body {
+    background-image: url("../assets/img/Mountain-Background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
